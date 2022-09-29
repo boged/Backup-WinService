@@ -19,7 +19,7 @@ For start use:
 service_name.exe install
 service_name.exe start
 ```
-##Configure file format:  
+## Configure file format:  
 *Archive file path with name  
 Target directory for backup  
 Time between checks for changes to files (in seconds)  
@@ -27,7 +27,7 @@ Name or file mask for backup
 ...  
 Name or file mask for backup*
 
-##Example of configure file:  
+## Example of configure file:  
 *D:\test\archive.zip  
 D:\test\dir_for_check  
 30  
