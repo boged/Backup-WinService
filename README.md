@@ -15,7 +15,7 @@ After compiling, use this commands:
 * service_name.exe stop – stop service
 
 For start use:
-'''
+```
 service_name.exe install
 service_name.exe start
-'''
+```
